@@ -397,6 +397,16 @@ p {
 #projects .project-item:hover .project-img img {
 	transform: scale(1.1);
 }
+.download-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #428bca;
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 4px;
+}
 /* End Projects section */
 
 /* About Section */
